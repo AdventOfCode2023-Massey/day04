@@ -3,7 +3,9 @@ GitHub Copilot and Bart Massey
 
 ---
 
-*Your notes here.*
+This was surprisingly easy. Part 1 succeeded after Copilot
+corrected its line lexing. Part 2 succeeded after pointing
+out a bug in Copilot's algorithm, which it found and fixed.
 
 ---
 
